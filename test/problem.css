@@ -1,0 +1,18 @@
+body {
+    background-color:#0C63E7;
+}
+ 
+#Jumbotron {
+    font-size:larger;
+    border-style:solid;
+    padding:95px;
+    margin:75px;
+    text-align:center;
+    background-image:url(https://media.globalcitizen.org/thumbnails/a4/91/a4913016-8f27-4d70-9956-fd7604f08496/lebanon-waste-trash-beach-1.jpg__1500x670_q85_crop_subsampling-2.jpg);
+}
+.content {
+    padding:20px;
+    background-color:#0A85ED;
+    text-align:center;
+    border-style:solid;
+}
